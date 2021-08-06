@@ -1,0 +1,20 @@
+{
+  "name": "jenil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Jenil",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "mongoose": "^5.13.5",
+    "nodemon": "^2.0.12",
+    "validator": "^13.6.0"
+  }
+}
